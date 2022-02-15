@@ -1,0 +1,16 @@
+C:\Users\Mauricéa\Desktop\AbstraindoRPG\AbstraindoRPG\bin\Debug\net5.0\AbstraindoRPG.exe
+C:\Users\Mauricéa\Desktop\AbstraindoRPG\AbstraindoRPG\bin\Debug\net5.0\AbstraindoRPG.deps.json
+C:\Users\Mauricéa\Desktop\AbstraindoRPG\AbstraindoRPG\bin\Debug\net5.0\AbstraindoRPG.runtimeconfig.json
+C:\Users\Mauricéa\Desktop\AbstraindoRPG\AbstraindoRPG\bin\Debug\net5.0\AbstraindoRPG.runtimeconfig.dev.json
+C:\Users\Mauricéa\Desktop\AbstraindoRPG\AbstraindoRPG\bin\Debug\net5.0\AbstraindoRPG.dll
+C:\Users\Mauricéa\Desktop\AbstraindoRPG\AbstraindoRPG\bin\Debug\net5.0\ref\AbstraindoRPG.dll
+C:\Users\Mauricéa\Desktop\AbstraindoRPG\AbstraindoRPG\bin\Debug\net5.0\AbstraindoRPG.pdb
+C:\Users\Mauricéa\Desktop\AbstraindoRPG\AbstraindoRPG\obj\Debug\net5.0\AbstraindoRPG.csproj.AssemblyReference.cache
+C:\Users\Mauricéa\Desktop\AbstraindoRPG\AbstraindoRPG\obj\Debug\net5.0\AbstraindoRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mauricéa\Desktop\AbstraindoRPG\AbstraindoRPG\obj\Debug\net5.0\AbstraindoRPG.AssemblyInfoInputs.cache
+C:\Users\Mauricéa\Desktop\AbstraindoRPG\AbstraindoRPG\obj\Debug\net5.0\AbstraindoRPG.AssemblyInfo.cs
+C:\Users\Mauricéa\Desktop\AbstraindoRPG\AbstraindoRPG\obj\Debug\net5.0\AbstraindoRPG.csproj.CoreCompileInputs.cache
+C:\Users\Mauricéa\Desktop\AbstraindoRPG\AbstraindoRPG\obj\Debug\net5.0\AbstraindoRPG.dll
+C:\Users\Mauricéa\Desktop\AbstraindoRPG\AbstraindoRPG\obj\Debug\net5.0\ref\AbstraindoRPG.dll
+C:\Users\Mauricéa\Desktop\AbstraindoRPG\AbstraindoRPG\obj\Debug\net5.0\AbstraindoRPG.pdb
+C:\Users\Mauricéa\Desktop\AbstraindoRPG\AbstraindoRPG\obj\Debug\net5.0\AbstraindoRPG.genruntimeconfig.cache

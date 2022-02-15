@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Mauricéa\\Desktop\\AbstraindoRPG\\AbstraindoRPG\\AbstraindoRPG.csproj": {}
+    "C:\\Users\\Mauricéa\\Desktop\\AbstraindoRPG\\AbstraindoRPG\\AbstraindoRPG.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Mauricéa\\Desktop\\AbstraindoRPG\\AbstraindoRPG\\AbstraindoRPG.csproj": {
+    "C:\\Users\\Mauricéa\\Desktop\\AbstraindoRPG\\AbstraindoRPG\\AbstraindoRPG.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Mauricéa\\Desktop\\AbstraindoRPG\\AbstraindoRPG\\AbstraindoRPG.csproj",
+        "projectUniqueName": "C:\\Users\\Mauricéa\\Desktop\\AbstraindoRPG\\AbstraindoRPG\\AbstraindoRPG.csproj",
         "projectName": "AbstraindoRPG",
-        "projectPath": "c:\\Users\\Mauricéa\\Desktop\\AbstraindoRPG\\AbstraindoRPG\\AbstraindoRPG.csproj",
+        "projectPath": "C:\\Users\\Mauricéa\\Desktop\\AbstraindoRPG\\AbstraindoRPG\\AbstraindoRPG.csproj",
         "packagesPath": "C:\\Users\\Mauricéa\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Mauricéa\\Desktop\\AbstraindoRPG\\AbstraindoRPG\\obj\\",
+        "outputPath": "C:\\Users\\Mauricéa\\Desktop\\AbstraindoRPG\\AbstraindoRPG\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mauricéa\\AppData\\Roaming\\NuGet\\NuGet.Config",
